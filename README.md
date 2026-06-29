@@ -1,4 +1,4 @@
-# React Password Generator
+# Password Generator
 
 A simple and responsive Password Generator built using React and Vite.
 
